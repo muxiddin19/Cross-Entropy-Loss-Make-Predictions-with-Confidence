@@ -21,7 +21,7 @@ cd cross-entropy-loss
 pip install -r requirements.txt
 
 
-Usage
+## Usage
 To run the cross-entropy loss example, follow these steps:
 
 Prepare your dataset and place the data in the data directory.
@@ -29,13 +29,13 @@ Prepare your dataset and place the data in the data directory.
 Run the main.py script to compute the cross-entropy loss for your dataset:
 python main.py
 
-Results
+## Results
 The results of the cross-entropy loss computation will be saved in the results directory. You can visualize the loss values and evaluate the performance of your model.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Feel free to customize the content to better fit your needs. Happy coding!
