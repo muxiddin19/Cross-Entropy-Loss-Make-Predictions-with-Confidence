@@ -19,7 +19,7 @@ To get started, clone this repository and install the required dependencies:
 git clone https://github.com/your-username/cross-entropy-loss.git
 cd cross-entropy-loss
 pip install -r requirements.txt
-
+```
 
 ## Usage
 To run the cross-entropy loss example, follow these steps:
